@@ -1,0 +1,17 @@
+Lucas De La Pena
+
+This program is built of python 3 and is needed to run. You will need to install
+opencv python. With this project my biggest issue was having huffman part of the code work
+correctly. Most of my time was spend trying to understand and trying to implement huffman code
+
+Sample Input:
+python P6_highlight.py image.jpg
+python P6_huffman.py image.jpg
+
+Installs:
+python 3
+pip install opencv-python
+
+
+
+
