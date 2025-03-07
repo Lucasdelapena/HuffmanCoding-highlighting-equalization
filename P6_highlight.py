@@ -1,6 +1,4 @@
 # Lucas de la Pena
-# CS 4420
-# Project 6
 # highlight.py
 # 12/2/2024
 
